@@ -1,2 +1,2 @@
 # Recipes_website
-Website for Recipes using html
+Website for Recipes using only html
