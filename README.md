@@ -6,3 +6,5 @@ Website for Recipes using only html,my first web dev project.
 
 
 Maybe will add CSS whn i finish learning.
+
+Disclaimer: I do not own the images/gif used in this repository
